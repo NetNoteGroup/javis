@@ -1,0 +1,37 @@
+{
+  "assistant_name": "Adrienne",
+  "wake_aliases": ["adrian", "adrianne", "adriene", "adrien"],
+  "wake_response": "Yes P my mukuhuzi",
+  "voice_name": "Zira",
+  "voice_rate": 175,
+  "model": "claude-sonnet-5-5",
+  "whisper_model": "base.en",
+  "mic_threshold": 0.01,
+
+  "contacts": {
+    "number one": { "phone": "+254798232855" },
+    "number two": { "phone": "+254796889283" },
+    "kariuki d": { "email": "kariukid238@gmail.com" },
+    "kariuki daniel": { "email": "kariukidaniel854@gmail.com" },
+    "netnote": { "email": "netnotechronicles@gmail.com" },
+    "trade tribe": { "email": "tradetribe3@gmail.com" },
+    "dopha": { "email": "dophakwambox23@gmail.com" }
+  },
+
+  "email": {
+    "address": "",
+    "app_password": "",
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 465
+  },
+
+  "telegram": {
+    "bot_token": ""
+  },
+
+  "discord_webhooks": {
+    "general": ""
+  },
+
+  "whatsapp_auto_send": false
+}

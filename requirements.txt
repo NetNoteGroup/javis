@@ -1,0 +1,14 @@
+anthropic
+requests
+beautifulsoup4
+numpy
+sounddevice
+faster-whisper
+pyttsx3
+pypdf
+python-docx
+pyautogui
+keyboard
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
